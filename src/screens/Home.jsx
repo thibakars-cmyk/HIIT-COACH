@@ -1,0 +1,2 @@
+import React from 'react'
+export default function Home(){ return (<div className='card'><h2>Welcome to HIIT Coach</h2><p>Use the navigation to explore the app. Sign up / sign in in Profile to sync your data to Supabase.</p></div>) }

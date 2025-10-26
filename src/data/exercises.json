@@ -1,0 +1,32 @@
+[
+  {
+    "id": "db-shoulder-press",
+    "name": "Dumbbell Shoulder Press",
+    "category": "upper",
+    "equipment": [
+      "dumbbell"
+    ],
+    "location": [
+      "home",
+      "gym"
+    ],
+    "description": "Press the dumbbells overhead, keep core tight.",
+    "animation": "/animations/db-shoulder-press.json",
+    "videoUrl": "https://www.youtube.com/watch?v=qEwKCR5JCog"
+  },
+  {
+    "id": "kb-swing",
+    "name": "Kettlebell Swing",
+    "category": "full",
+    "equipment": [
+      "kettlebell"
+    ],
+    "location": [
+      "gym",
+      "home"
+    ],
+    "description": "Hinge at hips, swing kettlebell to chest height.",
+    "animation": "/animations/kb-swing.json",
+    "videoUrl": "https://www.youtube.com/watch?v=YSxHifyI9mE"
+  }
+]
